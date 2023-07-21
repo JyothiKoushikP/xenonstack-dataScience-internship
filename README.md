@@ -35,7 +35,7 @@ Run the BITCOIN PREDICTION.ipynb file block-by-block for detailed analysis.
 | ----------------------      |
 | <img width="456" alt="image" src="https://github.com/jyothi-koushik-1998/xenonstack-dataScience-internship/assets/47804397/62e452af-5206-4ff6-86a1-a35d01a3c863"> |
 
-| Predicted High              | Predicted Low           |
+| Predicted High         | Predicted Low          |
 | ---------------------- | ---------------------- |
 | <img width="266" alt="image" src="https://github.com/jyothi-koushik-1998/xenonstack-dataScience-internship/assets/47804397/49b16bde-bf07-4909-9e79-f025d8791931"> | <img width="286" alt="image" src="https://github.com/jyothi-koushik-1998/xenonstack-dataScience-internship/assets/47804397/d712e57a-8fee-4908-9682-7f07fd752db1"> |
 
